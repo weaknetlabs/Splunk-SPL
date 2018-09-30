@@ -7,3 +7,15 @@ These queries are for all things related to Splunk> Indexes.
 To display all available indexes, do the following.
 
 `| eventcount summarize=false index=* | dedup index | fields index`
+
+## Sourcetypes
+
+## Lookup Files
+
+## Booleans
+
+## IPLocation
+
+## DNSLookup
+
+## Joining Queries
