@@ -19,3 +19,5 @@ To display all available indexes, do the following.
 ## DNSLookup
 
 ## Joining Queries
+
+## Regular Expressions
